@@ -13,5 +13,5 @@ const mario = {
 
 <p align="center">
 <a href="https://twitter.com/MarioMH8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="MarioMH" height="20" width="20" /></a>
-<a href="www.linkedin.com/in/mhidalgomario" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="MarioMH" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/mhidalgomario" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="MarioMH" height="20" width="20" /></a>
 </p>
