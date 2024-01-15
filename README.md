@@ -6,10 +6,7 @@
   Web Developer with more than 10 years of experience.
 </p>
 
-
-![banner](docs/mariomh.png)
-
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20"> A little more about me...  
+## A little more about me...  
 
 ```javascript
 const mario = {
